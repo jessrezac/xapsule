@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Caslon+Text|Martel+Sans:700&display=swap');
+
+// Set your brand colors
+$rich-black: #020202;
+$sea-blue: #05668d;
+$moonstone: #73bfb8;
+$jazzberry: #950952;
+$golden-poppy: #fec601;
+
+// Update Bulma global variables
+$primary: $sea-blue;
+$link: $jazzberry;
+$info: $golden-poppy;
+$success: $sea-blue;
+$family-serif: 'Libre Caslon Text', serif;
+$family-primary: $family-serif;
+$family-sans-serif: 'Martel Sans', sans-serif;
+$title-family: $family-serif;
+
+// Image customizations
